@@ -1,5 +1,5 @@
 .DS_STORE
-*.js.maps
+*.js.map
 *.js
 **/typings/**/*.d.ts
 **/typings/tsd.cached.json
