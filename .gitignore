@@ -3,4 +3,4 @@
 *.js
 **/typings/**/*.d.ts
 **/typings/tsd.cached.json
-node_modules/\nbower_components/
+node_modules/
